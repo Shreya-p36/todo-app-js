@@ -1,43 +1,44 @@
-# Persistent To-Do List Web App
+# Todo App – JavaScript
 
-A clean, responsive to-do list application built with **vanilla HTML, CSS, and JavaScript**, focused on proper state management, event handling, and data persistence using `localStorage`.
+A clean and responsive **To-Do List web application** built using **vanilla JavaScript**, designed to manage daily tasks efficiently with persistent storage.
 
-This project demonstrates core frontend fundamentals without relying on frameworks.
-
----
-
-## 🚀 Features
-
-- Add new tasks using button click or `Enter` key
-- Mark tasks as completed with a single click
-- Delete tasks instantly
-- Persist tasks across page reloads using `localStorage`
-- Responsive and accessible UI
-- Clean separation of logic and UI rendering
+This project focuses on DOM manipulation, event handling, and client-side data persistence without using any frameworks.
 
 ---
 
-## 🧠 Concepts Demonstrated
+## 🌐 Live Demo
 
-- DOM manipulation
-- Event bubbling and propagation control
-- State management using JavaScript objects
-- `localStorage` for persistence
-- Keyboard accessibility
-- Clean, readable code structure
+👉 https://shreya-p36.github.io/todo-app-js/
 
 ---
 
-## 🛠 Tech Stack
+## 📌 Features
 
-- **HTML5** – semantic structure
-- **CSS3** – responsive layout and styling
-- **JavaScript (ES6)** – application logic
-- **Font Awesome** – icons
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Persistent task storage using `localStorage`
+- Keyboard support (Enter key to add tasks)
+- Responsive and minimal UI
+- Clean, maintainable code structure
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – structure
+- **CSS3** – styling and layout
+- **JavaScript (ES6)** – logic and interactivity
+  - DOM manipulation
+  - Event handling
+  - `localStorage`
 
 ---
 
 ## 📂 Project Structure
+
+todo-app-js/
+│
 ├── index.html
 ├── style.css
 ├── script.js
@@ -46,9 +47,33 @@ This project demonstrates core frontend fundamentals without relying on framewor
 
 ---
 
-## 🧪 How to Run Locally
+## 🚀 What This Project Demonstrates
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Shreya-p36/todo-app-js.git
+- Strong understanding of JavaScript fundamentals
+- Working with the DOM and browser events
+- Client-side state management
+- Persistent data storage using `localStorage`
+- Writing clean and readable frontend code
+- Deploying projects using GitHub Pages
 
+---
+
+## 🔮 Future Improvements
+
+- Edit existing tasks
+- Filter tasks (All / Active / Completed)
+- Dark mode toggle
+- Drag-and-drop task reordering
+
+---
+
+## 👤 Author
+
+**Shreya P36**  
+Frontend Development Enthusiast
+
+---
+
+## 📄 License
+
+This project is open-source and available for learning and portfolio use.
